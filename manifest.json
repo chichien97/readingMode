@@ -1,15 +1,11 @@
 {
 
   "manifest_version": 2,
-  "name": "Open in Reader View",
-  "version": "1.2",
+  "name": "Reader View",
+  "version": "1",
 
-  "description": "Opens current page in reader view mode",
+  "description": "Reading Mode",
   "homepage_url": "https://github.com/sigsergv/ff-open-reader-view",
-
-  "icons": {
-    "48": "icons/icon-48.png"
-  },
 
   "background": {
     "scripts": ["readerView.js"]
